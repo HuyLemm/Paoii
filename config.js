@@ -15,6 +15,6 @@ Chúc ngiu của anhhh có một 8/3 thật là zui zẻ nhóooo 💙💙💙`,
     btnReply: 'Gửi cho Alzinn <3',
     reply: 'Tại vì em vô cùng yêu anhhh, hong đc ghi cái gì khác đâu hihi 💘',
     mess: 'Anh biết mà 🥰. Yêu em nhiều lắmm 😘😘',
-    messDesc: 'Trưa nay 11h30, anh qua đón đi chơi nhaaa.',
+    messDesc: 'Tí anh qua đón người iu đi chơi nhaaa.',
     btnAccept: 'Okiiiii lun <3',
 }
